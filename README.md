@@ -1,5 +1,7 @@
 # Encore Music (T4RDIS Version)
 
+[![Join the chat at https://gitter.im/T4RDIS/encore](https://badges.gitter.im/T4RDIS/encore.svg)](https://gitter.im/T4RDIS/encore?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Logo](http://www.encoremusic.io/wp-content/uploads/2015/07/ic_web_cropped_logo.png)
 
 [Forum](http://forum.xda-developers.com/apps/encore-music/encore-music-to-experience-music-t3166515)
