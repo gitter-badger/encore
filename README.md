@@ -1,4 +1,4 @@
-# Encore Music
+# Encore Music (T4RDIS Version)
 
 ![Logo](http://www.encoremusic.io/wp-content/uploads/2015/07/ic_web_cropped_logo.png)
 
